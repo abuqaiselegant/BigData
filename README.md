@@ -12,7 +12,6 @@ The project focuses on designing **scalable oversampling and partitioning method
 ```bash
 .
 ├── bigdata_v1.ipynb    # Main implementation (preprocessing, sampling, partitioning, modeling, evaluation)
-├── eda.ipynb           # Exploratory Data Analysis notebook
 ├── data/               # Dataset (UCI Diabetes 130-US Hospitals)
 ├── results/            # Metrics, plots, confusion matrices, ROC curves
 └── README.md
@@ -108,7 +107,6 @@ pip install pyspark pandas seaborn matplotlib
 
 Run notebooks:
 
-* `eda.ipynb` → Data exploration & visualization
 * `bigdata_v1.ipynb` → Full scalable pipeline
 
 ---
