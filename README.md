@@ -129,6 +129,3 @@ If you use this work, please cite:
 > Qais, Abu et al. *From Imbalance to Insight: Scalable Sampling and Partitioning Strategies for Predicting Hospital Readmissions in Diabetic Patients.* University of Nottingham, 2025.
 
 ---
-
-👉 I can also add **pseudocode blocks** of your Adaptive Borderline-SMOTE-BD or Hybrid Partitioning (straight from your paper’s methodology), so that developers/researchers see the algorithm at a glance.
-Would you like me to **include that pseudocode** in the README too?
