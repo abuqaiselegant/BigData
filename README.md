@@ -1,7 +1,3 @@
-Perfect — I went through your research paper draft and can now integrate the **full detail of your custom SMOTE techniques and hybrid partitioning** into your GitHub README. Here’s an updated version that makes the repo both **developer-friendly** and **research-driven**:
-
----
-
 # 🚀 Big Data Project – Scalable Sampling & Partitioning for Imbalanced Data
 
 This repository contains the implementation of my Big Data project:
