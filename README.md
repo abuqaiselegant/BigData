@@ -99,7 +99,7 @@ The project focuses on designing **scalable oversampling and partitioning method
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/bigdata-project.git
+git clone https://github.com/abuqaiselegant/BigData.git
 cd bigdata-project
 
 # Install dependencies
